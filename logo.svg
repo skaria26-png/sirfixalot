@@ -1,0 +1,44 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="200" fill="#000000"/>
+  
+  <!-- Main roof structure -->
+  <polygon points="150,40 100,80 200,80" fill="#6B46C1"/>
+  
+  <!-- Inner roof section -->
+  <polygon points="150,50 120,75 180,75" fill="#9CA3AF"/>
+  
+  <!-- Windows -->
+  <rect x="130" y="55" width="8" height="8" fill="#374151"/>
+  <rect x="142" y="55" width="8" height="8" fill="#374151"/>
+  
+  <!-- Left side - Hammer integrated into house -->
+  <rect x="100" y="80" width="20" height="40" fill="#F97316"/>
+  <rect x="95" y="75" width="15" height="8" fill="#F97316"/>
+  <rect x="97" y="70" width="3" height="8" fill="#9CA3AF"/>
+  
+  <!-- Screwdriver extending from hammer -->
+  <rect x="98" y="60" width="4" height="15" fill="#9CA3AF"/>
+  
+  <!-- Right side - Wrench integrated into house -->
+  <rect x="180" y="80" width="20" height="40" fill="#6B46C1"/>
+  <rect x="185" y="75" width="15" height="8" fill="#6B46C1"/>
+  
+  <!-- Palm tree in curved arc -->
+  <path d="M 200 75 Q 190 65 180 75" stroke="#10B981" stroke-width="3" fill="none"/>
+  <path d="M 195 70 Q 190 60 185 70" stroke="#10B981" stroke-width="2" fill="none"/>
+  <path d="M 195 70 Q 200 60 205 70" stroke="#10B981" stroke-width="2" fill="none"/>
+  
+  <!-- Bottom nail/screw -->
+  <rect x="20" y="160" width="30" height="4" fill="#9CA3AF"/>
+  <rect x="25" y="158" width="20" height="8" fill="#9CA3AF"/>
+  
+  <!-- Company name -->
+  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#DC2626">Sir Fix Alot</text>
+  
+  <!-- Tagline -->
+  <text x="150" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6B46C1">Technical Service LLC</text>
+  
+  <!-- Bottom orange bar -->
+  <rect x="0" y="190" width="300" height="10" fill="#F97316"/>
+</svg>
